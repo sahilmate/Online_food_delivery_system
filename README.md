@@ -149,7 +149,8 @@ Follow these steps to set up the project locally:
 
 ## Notes
 
-1. This system is for demonstration purposes and not intended for production use without further development.
-2. New customers receive 2000 coins in their wallet upon registration.
-3. Only customers with "Verified" status can use the Cash on Delivery option.
-4. A simulated credit card system is used for demonstration purposes.
+1. Note you may get error `mysqli_sql_exception Access Denied ` in that case please remove the port variable from [connect.php](https://github.com/sahilmate/Online_food_delivery_system/blob/main/account/includes/connect.php) in that case please change the port number to 3306 (default)
+2. This system is for demonstration purposes and not intended for production use without further development.
+3. New customers receive 2000 coins in their wallet upon registration.
+4. Only customers with "Verified" status can use the Cash on Delivery option.
+5. A simulated credit card system is used for demonstration purposes.
