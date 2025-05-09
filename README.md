@@ -62,9 +62,9 @@ Follow these steps to set up the project locally:
 - Sales reporting
 - Support ticket handling
 
+## Screenshots
 <details>
-<summary> Screenshots </summary>
-
+   
 ### Homepage
 ![Homepage](screenshots/1-home-page.png)
 
@@ -76,6 +76,7 @@ Follow these steps to set up the project locally:
 
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/6-admin-menu.png)
+
 </details>
 
 ## Git Workflow
